@@ -19,15 +19,26 @@ I enjoy creating clean, performant, and user-focused web applications.
 ---
 
 ## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js"/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black"/>
 </p>
 
@@ -41,7 +52,6 @@ I enjoy creating clean, performant, and user-focused web applications.
 ---
 
 ## 📊 GitHub Activity
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshthedev&theme=github-dark&hide_border=true" />
