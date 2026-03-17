@@ -111,20 +111,6 @@ const yogesh: Developer = {
 
 ---
 
-### 🚀 Currently Leveling Up
-
-<div align="center">
-
-| Skill | Progress | Focus Area |
-|-------|----------|------------|
-| **Next.js** | `████████████████████░░░░` 82% | App Router · SSR · ISR · Edge |
-| **GSAP** | `██████████████░░░░░░░░░░` 58% | ScrollTrigger · Timelines · Physics |
-| **Node.js** | `█████████████████░░░░░░░` 70% | Advanced patterns · Microservices |
-| **TypeScript** | `████████████████░░░░░░░░` 65% | Generics · Utility Types · Zod |
-
-</div>
-
----
 
 ### 💭 Dev Philosophy
 
