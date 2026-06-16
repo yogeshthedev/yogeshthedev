@@ -4,12 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/yogeshthedev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Yogesh+%F0%9F%91%8B;Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript" alt="Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Yogesh+%F0%9F%91%8B;Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript" alt="Header" />
   </a>
   <br/>
-  <p align="center">
-    <code style="color: #2F80ED;">Building scalable web apps with clean architecture.</code>
-  </p>
+  <p><b>Building scalable web apps with clean architecture.</b> <br/> Turning ideas into performant digital experiences. Open to collabs — let's build something great 🚀</p>
 
   [![Profile Views](https://komarev.com/ghpvc/?username=yogeshthedev&label=Views&color=2f80ed&style=flat-square&labelColor=0D1117)](https://github.com/yogeshthedev)
   [![GitHub followers](https://img.shields.io/github/followers/yogeshthedev?label=Followers&style=flat-square&color=2F80ED&labelColor=0D1117)](https://github.com/yogeshthedev)
@@ -17,26 +15,23 @@
 
 <br/>
 
-### 🧬 `$ whoami`
-
-<table align="center">
-<tr>
-<td width="60%">
+### 👨🏻‍💻 `$ whoami`
 
 ```typescript
 const yogesh: Developer = {
   name:      "Yogesh",
   title:     "Full Stack Developer",
   location:  "India 🇮🇳",
-
-  core:      ["MongoDB", "Express", "React", "Node.js"],
+  
+  core:      ["MongoDB", "Express.js", "React", "Node.js"],
   expanding: ["Next.js", "TypeScript", "GSAP"],
-
+  
   principles: [
     "Clean code over clever code",
     "UX is a feature, not an afterthought",
     "Ship fast, iterate faster",
   ],
-
-  status:    "Open to collabs, OSS, and new ideas 🤝",
+  
+  currentlyBuilding: "Something cool... 👀",
+  openTo:            "Collabs, OSS, and new ideas 🤝",
 };
